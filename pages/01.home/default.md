@@ -15,6 +15,7 @@ There is not much to see here, you might want to checkout some of the links belo
 * [My mildly disturbed personal blog ](http://blog.jerryhopper.com)
 * [Armaholic missing files - a Arma torrent file archive ](http://bidentify.jerryhopper.com/)
 * [ForYourInformation  a dutch blog,with articles from Jerry](https://foryourinformation.nl)
+* [Host your own arm64 oauth2 server](https://hub.docker.com/repository/docker/jerryhopper/fusionauth-app)
 
 
 
